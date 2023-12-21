@@ -7,10 +7,13 @@ List all files used in this R Project
 ipynb: Housing_prediction.ipynb
 
 DATA FILES:
+
 csv files: test.csv; train.csv
+
 External datasets imported into R for the project are listed here.
 
 OUTPUT FILES:
+
 Output files such as documents, images, or tabular output are listed here.
 
 documents: Housing prediction report.docx
