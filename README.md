@@ -4,16 +4,16 @@ This Repository includes my recent work of applying python on Kaggle practice co
 CODE FILES:
 List all files used in this R Project
 
-Ipynb:
+ipynb: Housing_prediction.ipynb
 
 DATA FILES:
-csv files: 
+csv files: test.csv; train.csv
 External datasets imported into R for the project are listed here.
 
 OUTPUT FILES:
 Output files such as documents, images, or tabular output are listed here.
 
-documents: Taxi_report.docx
+documents: Housing prediction report.docx
 
 Images:
 
