@@ -2,15 +2,20 @@
 This Repository includes my recent work of applying python on Kaggle practice competition of House Prices - Advanced Regression Techniques.
 
 CODE FILES:
+
 List all files used in this R Project
 
 ipynb: Housing_prediction.ipynb
 
+============================================================
+
 DATA FILES:
 
-csv files: test.csv; train.csv
+CSV files: test.csv; train.csv
 
 External datasets imported into R for the project are listed here.
+
+============================================================
 
 OUTPUT FILES:
 
